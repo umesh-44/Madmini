@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959960189820",
+    "firebase_url": "https://madmini-5eba3.firebaseio.com",
+    "project_id": "madmini-5eba3",
+    "storage_bucket": "madmini-5eba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959960189820:android:4bd8ab83a70f0f160472f9",
+        "android_client_info": {
+          "package_name": "com.example.madmini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959960189820-qf0am4jart6hn0sbsfrhja56g7n85vk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkE4D279BDVs4kc9AuUgeLTb6HCJlnK6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959960189820-qf0am4jart6hn0sbsfrhja56g7n85vk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
