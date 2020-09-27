@@ -11,13 +11,6 @@
         android:theme="@style/AppTheme">
         <activity android:name=".testGit2"></activity>
         <activity android:name=".Testgit" />
-        <activity android:name=".WelcomeScreen">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
         <activity
             android:name=".ForgotPassword"
             android:parentActivityName=".ui.Login" />
@@ -32,11 +25,20 @@
             android:parentActivityName=".MainActivity" />
         <activity android:name=".Adminpanel" />
         <activity android:name=".Registration" />
-        <activity android:name=".ui.Login" />
+        <activity android:name=".ui.Login" >
+         </activity>
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
     </application>
 
 </manifest>
